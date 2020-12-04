@@ -1,0 +1,31 @@
+[25-Dec-2019 08:41:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php:160
+Stack trace:
+#0 /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php(109): DBBackup->getTables()
+#1 /home/ecbmedya/public_html/istakip/veritabaniniyedekle.php(33): DBBackup->DBBackup(Array)
+#2 {main}
+  thrown in /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php on line 160
+[11-Jan-2020 16:18:20 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ecbmedya/public_html/istakip/tummesajlarisil.php on line 6
+[12-Jan-2020 18:03:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php:160
+Stack trace:
+#0 /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php(109): DBBackup->getTables()
+#1 /home/ecbmedya/public_html/istakip/veritabaniniyedekle.php(33): DBBackup->DBBackup(Array)
+#2 {main}
+  thrown in /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php on line 160
+[22-Feb-2020 21:00:33 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php:160
+Stack trace:
+#0 /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php(109): DBBackup->getTables()
+#1 /home/ecbmedya/public_html/istakip/veritabaniniyedekle.php(33): DBBackup->DBBackup(Array)
+#2 {main}
+  thrown in /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php on line 160
+[12-Apr-2020 17:04:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php:160
+Stack trace:
+#0 /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php(109): DBBackup->getTables()
+#1 /home/ecbmedya/public_html/istakip/veritabaniniyedekle.php(33): DBBackup->DBBackup(Array)
+#2 {main}
+  thrown in /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php on line 160
+[01-Jun-2020 20:47:42 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php:160
+Stack trace:
+#0 /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php(109): DBBackup->getTables()
+#1 /home/ecbmedya/public_html/istakip/veritabaniniyedekle.php(33): DBBackup->DBBackup(Array)
+#2 {main}
+  thrown in /home/ecbmedya/public_html/istakip/DBBackup_vtyedeklemesinifi.class.php on line 160

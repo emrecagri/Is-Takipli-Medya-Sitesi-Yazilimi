@@ -1,0 +1,1 @@
+Bu alana WordPress gibi blog scripti kurabilirsiniz.

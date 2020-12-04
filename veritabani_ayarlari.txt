@@ -1,0 +1,3 @@
+istakip/vtbaglan.php dosyasında ki, 
+istakip/veritabaniniyedekle.php dosyasında ki ve 
+istakip/islemler klasöründeki baglan.php dosyasındaki veritabanı bilgilerini keni veritabanı bildileriniz ile değiştirin.
