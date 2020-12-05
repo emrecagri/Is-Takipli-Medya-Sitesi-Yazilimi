@@ -1,4 +1,10 @@
+# İş Takip Sistemli Medya Sitesi
 
+Entegre iş takip sistemi sayesinde online olarak web tarayıcı üzerinden sipariş oluşturulabilir, düzenlenebilir ve silinebilir.
+
+Ziyaretçiler tarafından yazılan mesajlar kayıt altında tutulur ve listelenir.
+
+İş takip sisteminden yeni bir sipariş oluşturulduğu zaman benzersiz bir takip kodu oluşturacaktır. Bu takip kodu ile müşteri istediği zaman site üzerinden sipariş durumu sorgulama sayfasından siparişinin hangi aşamada olduğunu öğrenebilir.
 
 # Siteyi çalıştırmak için
 aşağıdaki işlemleri yapın yoksa site düzgün çalışmayacaktır. 
