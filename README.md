@@ -24,7 +24,7 @@ Veritabanı adı: (Oluşturduğunuz veritabanınızın adı)
 
 # Admin paneline giriş
 
-siteadi.com/istakip adresinden admin paneline giriş yapabilirsiniz.
+siteadi/istakip adresinden admin paneline giriş yapabilirsiniz.
 
 Tam yetkili admin giriş bilgileri:
 Mail: mail@mail.mail
