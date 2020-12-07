@@ -42,12 +42,13 @@ Ayarlardan bu bilgileri değiştirebilirsiniz.
 ---
 
 # Credits
+
 İş Takip Scripti: aksoyhlc.net
-Site Tasarımı: html.desing - Edulogy 
-Bootstrap v3.3.7
-Animate.css
-FontAwesome
-Owl Carousel
-Bootstrap Select
-jQuery v1.12.4
-PrettyPhoto
+<br>Site Tasarımı: html.desing - Edulogy
+<br>Bootstrap v3.3.7
+<br>Animate.css
+<br>FontAwesome
+<br>Owl Carousel
+<br>Bootstrap Select
+<br>jQuery v1.12.4
+<br>PrettyPhoto
