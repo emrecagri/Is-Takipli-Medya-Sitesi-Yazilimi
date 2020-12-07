@@ -1,4 +1,11 @@
-# İş Takip Sistemli Medya Sitesi
+# İş Takip Sistemli Medya Sitesi Yazılımı
+
+
+<b>Kullanılan teknolojiler:</b> PHP, MySQL VERİTABANI, HTML, CSS, JAVASCRIPT
+
+<b>Özellikler:</b> Müşteri tarafından sipariş takip kodu ile siparişin durumunu takip etme, Yönetici tarafından yönetim paneli ile sipariş oluşturma, düzenleme ve silme, Mesaj görüntüleme ve silme, Ziyaretçi geçmişi görüntüleme ve silme
+
+---
 
 Entegre iş takip sistemi sayesinde online olarak web tarayıcı üzerinden sipariş oluşturulabilir, düzenlenebilir ve silinebilir.
 
