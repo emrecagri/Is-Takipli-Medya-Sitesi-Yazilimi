@@ -38,3 +38,16 @@ Mail: mail@mail.mail
 Şifre: 1df5g48s
 
 Ayarlardan bu bilgileri değiştirebilirsiniz.
+
+---
+
+# Credits
+İş Takip Scripti: aksoyhlc.net
+Site Tasarımı: html.desing - Edulogy 
+Bootstrap v3.3.7
+Animate.css
+FontAwesome
+Owl Carousel
+Bootstrap Select
+jQuery v1.12.4
+PrettyPhoto
