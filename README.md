@@ -41,7 +41,7 @@ Ayarlardan bu bilgileri değiştirebilirsiniz.
 
 ---
 
-# Credits
+# Kullanılan Kaynaklar
 
 İş Takip Scripti: aksoyhlc.net
 <br>Site Tasarımı: html.desing - Edulogy
